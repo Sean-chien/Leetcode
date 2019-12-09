@@ -1,5 +1,5 @@
 # Leetcode
-Leetcode solve this questions
+Solve the questions on leetcode
 Technologies
 </br>
 <li>
