@@ -4,4 +4,5 @@ Technologies
 </br>
 <li>
 Java
+JavaScript
 </li>
