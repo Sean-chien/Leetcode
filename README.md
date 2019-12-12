@@ -3,7 +3,6 @@ Solve the questions on leetcode
 Technologies
 </br>
 <li>
-Java
-</br>
-JavaScript
+Java<br>
+JavaScript  
 </li>
