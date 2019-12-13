@@ -6,5 +6,11 @@ Technologies
 Java  
 </li>
 <li>
+IntelliJ  
+</li>  
+<li>
 JavaScript
+</li>
+<li>
+Visual Studio
 </li>  
