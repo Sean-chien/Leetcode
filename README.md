@@ -12,8 +12,5 @@ IntelliJ
 JavaScript
 </li>
 <li>
-jQuery  
-</li>
-<li>
 Visual Studio
 </li>
